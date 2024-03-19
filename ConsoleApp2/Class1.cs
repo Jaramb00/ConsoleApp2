@@ -13,3 +13,5 @@ namespace ConsoleApp2
 
 //proemeilr
 //jjj
+
+//novi komentar
