@@ -12,3 +12,6 @@ namespace MyApp
         }
     }
 }
+
+
+Console.WriteLine("Hello");
