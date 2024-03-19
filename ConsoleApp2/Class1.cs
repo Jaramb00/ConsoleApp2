@@ -10,6 +10,9 @@ namespace ConsoleApp2
     {
     }
 }
+public void Metoda{
+
+}
 
 //proemeilr
 //jjj
